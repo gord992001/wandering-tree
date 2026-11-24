@@ -1,0 +1,80 @@
+[
+  {
+    "id": "countryside",
+    "title": "Countryside",
+    "label": "田野漫步",
+    "artist": "TAD",
+    "src": "music/countryside.mp3",
+    "duration": 92.19,
+    "source": "https://opengameart.org/sites/default/files/Countryside_0.mp3",
+    "sourcePage": "https://opengameart.org/content/lofi-compilation",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "db4ecc6a540b08cfb8cc95c0703ee8616801db9d588f33686f9743f50955e442"
+  },
+  {
+    "id": "florist",
+    "title": "Florist",
+    "label": "花間午後",
+    "artist": "TAD",
+    "src": "music/florist.mp3",
+    "duration": 113.01,
+    "source": "https://opengameart.org/sites/default/files/Florist_0.mp3",
+    "sourcePage": "https://opengameart.org/content/lofi-compilation",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "c68ac934076d05883376badb440d945738b9e075d493e03d4d00e05354945738"
+  },
+  {
+    "id": "oceanside",
+    "title": "Oceanside",
+    "label": "海風小憩",
+    "artist": "TAD",
+    "src": "music/oceanside.mp3",
+    "duration": 102.61,
+    "source": "https://opengameart.org/sites/default/files/Oceanside_0.mp3",
+    "sourcePage": "https://opengameart.org/content/lofi-compilation",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "deff92ce46a101ee4ded838de9afcfcb99d6d8f4d227a483a5000d91684d69f6"
+  },
+  {
+    "id": "rainy-forest",
+    "title": "Rainy Forest",
+    "label": "雨中森林",
+    "artist": "TAD",
+    "src": "music/rainy-forest.mp3",
+    "duration": 99.55,
+    "source": "https://opengameart.org/sites/default/files/Rainy%20Forest_0.mp3",
+    "sourcePage": "https://opengameart.org/content/lofi-compilation",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "36dcdeb142c22b691eb8a487520da2d49149e2df4430f65c2f8a44df6d7d2e1a"
+  },
+  {
+    "id": "cup-of-tea",
+    "title": "A cup of tea",
+    "label": "一杯暖茶",
+    "artist": "TAD",
+    "src": "music/cup-of-tea.mp3",
+    "duration": 168.75,
+    "source": "https://opengameart.org/sites/default/files/A%20cup%20of%20tea_0.mp3",
+    "sourcePage": "https://opengameart.org/content/lofi-compilation",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "03f8128bfa193e9fee5f0647f189baeb7adbf2a1f7b0fecf849ad57e6355091c"
+  },
+  {
+    "id": "morning-rain",
+    "title": "Morning rain",
+    "label": "晨雨微光",
+    "artist": "TAD",
+    "src": "music/morning-rain.mp3",
+    "duration": 64.05,
+    "source": "https://opengameart.org/sites/default/files/Morning%20rain_0.mp3",
+    "sourcePage": "https://opengameart.org/content/lofi-compilation",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "11c9c43be5d3baf5892cd59034ba3c1b690db9a4b986070530597d0afaa12306"
+  }
+]

@@ -1,0 +1,5 @@
+Music by TAD. Original collection: https://opengameart.org/content/lofi-compilation
+All six tracks marked CC0 by their author on the source page.
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Original MP3 recordings redistributed without audio edits.
+Titles and filenames are listed in tracks.json.
